@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git init *)",
+      "Bash(git branch *)",
+      "Bash(cd \"c:/Users/hvp002/OneDrive - PwC/Downloads/spring-petclinic-main/spring-petclinic-main\" && rm -rf .git)",
+      "Bash(git add *)"
+    ],
+    "additionalDirectories": [
+      "c:\\Users\\hvp002\\OneDrive - PwC\\Downloads\\spring-petclinic-main\\spring-petclinic-main\\.git"
+    ]
+  }
+}
